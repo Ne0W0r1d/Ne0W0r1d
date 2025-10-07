@@ -13,7 +13,7 @@ int main{
   cout<< "欢迎来到新世界" <<endl;
   cout<< "科技 | 游戏 | DTM | 汽车“ <<endl;
   cout<< “我的博客：https://ne0w0r1d.top" <<endl;
-  cout<< “我的博客：https://armyknife.ne0w0r1d.top" <<endl;
+  cout<< "我的项目： https://armyknife.ne0w0r1d.top" <<endl;
   return 0;
 }
 ```
