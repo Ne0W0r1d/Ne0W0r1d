@@ -7,7 +7,7 @@ int main{
 // English
   cout<< "Hellow The Ne0 W0r1d" <<endl;
   cout<< "Tech | Game | Desktop Music | Car“ <<endl;
-  cout<< "Myblog: https://ne0w0r1d.top" <<endl; //Chinese Blog
+  cout<< "My Blog: https://ne0w0r1d.top" <<endl; //Chinese Blog
   cout<< "My Project: https://armyknife.ne0w0r1d.top" <<endl; //Chinese Site
 // 中文
   cout<< "欢迎来到新世界" <<endl;
