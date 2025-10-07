@@ -5,15 +5,15 @@ using namespace std;
 
 int main{
 // English
-  cout<<"Hellow The Ne0 W0r1d"<<endl;
-  cout<<"Tech | Game | Desktop Music | Car“<<endl;
-  cout<<"Myblog: https://ne0w0r1d.top"<<endl; //Chinese Blog
-  cout<<"My Project: https://armyknife.ne0w0r1d.top"<<endl; //Chinese Site
+  cout<< "Hellow The Ne0 W0r1d" <<endl;
+  cout<< "Tech | Game | Desktop Music | Car“ <<endl;
+  cout<< "Myblog: https://ne0w0r1d.top" <<endl; //Chinese Blog
+  cout<< "My Project: https://armyknife.ne0w0r1d.top" <<endl; //Chinese Site
 // 中文
-  cout<<"欢迎来到新世界"<<endl;
-  cout<<"科技 | 游戏 | DTM | 汽车“<<endl;
-  cout<<“我的博客：https://ne0w0r1d.top"<<endl;
-  cout<<”我的项目: https://ne0w0r1d.top"<<endl;
+  cout<< "欢迎来到新世界" <<endl;
+  cout<< "科技 | 游戏 | DTM | 汽车“ <<endl;
+  cout<< “我的博客：https://ne0w0r1d.top" <<endl;
+  cout<< ”我的项目: https://ne0w0r1d.top" <<endl;
   return 0;
 }
 ```
