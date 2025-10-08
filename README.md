@@ -14,7 +14,7 @@ int main{
   cout<< "欢迎来到新世界" <<endl;
   cout<< "科技 | 游戏 | DTM | 汽车“ <<endl;
   cout<< “我的博客：https://ne0w0r1d.top" <<endl;
-  cout<< "瑞士军刀项目： https://armyknife.ne0w0r1d.top" <<endl;
+  cout<< "瑞士军刀项目： [https://armyknife.ne0w0r1d.top](https://armyknife.ne0w0r1d.top)" <<endl;
   cour<< “创意工作和游戏用操作系统自由运动Wiki：https://fuckms.ne0w0r1d.top ”<<endl;
   return 0;
 }
