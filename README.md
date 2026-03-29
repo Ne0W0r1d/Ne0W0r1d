@@ -13,7 +13,7 @@ int main()
     cout<< "NOWindows WIki: https://fuckms.ne0w0r1d.top" << endl; // Chinese Site,Need to translate
     cout<< "CNB："<< "https://cnb.cool/neoengine_dev" << endl;
     cout<< "Codeberg：" << "https://codeberg.org/Ne0W0r1d" << endl;
-    cout<< "Fedora Linux KDE Plasma Desktop Edition & Rocky Linux 10.x"<<endl;
+    cout<< "Using Distro: Fedora Linux KDE Plasma Desktop Edition & Rocky Linux 10.x"<<endl;
   // 中文
     cout<< "Ciallo～(∠・ω< )⌒☆" <<endl;
     cout<< "欢迎来到 Ne0W0r1d 新界（Jhenan Lee）的 Github！！"<< endl;
