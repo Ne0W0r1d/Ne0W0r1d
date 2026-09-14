@@ -1,30 +1,37 @@
-```cpp
-#include <iostream>
+# `sudo dnf in hello-everyone -y`
 
-using namespace std;
+I am Ne0W0r1d,a digital media tech graduate, A noob musician, Noob full-stack engineers, an Ex-AI drama creator.<br>
+And I am creator and cheif-maintainer by [Can We Tux](https://tux.red>
 
-int main()
-{
-    cout<< "Ciallo～(∠・ω< )⌒☆" << endl;
-    cout<< "Welcome 2 Ne0W0r1d(Jhennn Lee)`s GitHub Profile！" << endl;
-    cout<< "Tech | Game | Desktop Music | Car" << endl;
-    cout<< "MyBlog： https://ne0w0r1d.top" << endl; //Chinese Blog
-    cout<< "Cipher Tools: https://armyknife.ne0w0r1d.top" << endl; //Chinese Site
-    cout<< "NOWindows WIki: https://fuckms.ne0w0r1d.top" << endl; // Chinese Site,Need to translate
-    cout<< "CNB："<< "https://cnb.cool/neoengine_dev" << endl;
-    cout<< "Codeberg：" << "https://codeberg.org/Ne0W0r1d" << endl;
-    cout<< "Using Distro: Fedora Linux KDE Plasma Desktop Edition & Rocky Linux 10.x"<<endl;
-  // 中文
-    cout<< "Ciallo～(∠・ω< )⌒☆" <<endl;
-    cout<< "欢迎来到 Ne0W0r1d 新界（Jhenan Lee）的 Github！！"<< endl;
-    cout<< "科技 | 游戏 | DTM | 汽车" << endl;
-    cout<< "我的博客：https://ne0w0r1d.top" << endl;
-    cout<< "Cipher Tools： https://cipher.ne0w0r1d.top" << endl;
-    cout<< "NOWindows Wiki：https://fuckms.ne0w0r1d.top" << endl;
-    cout<< "CNB："<< "https://cnb.cool/neoengine_dev" << endl;
-    cout<< "Codeberg：" << "https://codeberg.org/Ne0W0r1d" << endl;
-    cout<< "使用的发行版：Fedora Linux KDE Plasma Desktop Edition & Rocky Linux 10.x"<< endl;
-    return 0;
-}
+--- 
 
-```
+## About my something
+
+👀 I am learning Qt/QML & C++, Zig and Vite in these time.<br>
+🔥 I am trying Vibe Coding with Hermes<br>
+😋 I like listening music, play some anime game, and play VALORANT, write some blog on [My self blog](https://0w0.red)<br>
+
+---
+
+# Skills and learnling skills
+
+## DAW and NLE:
+
+![Bitwig](https://img.shields.io/badge/Bitwig-white?style=for-the-badge&logo=bitwig) ![ardour](https://img.shields.io/badge/Ardour-Learning-C61C3E?style=for-the-badge&logo=ardour) ![Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve)
+
+---
+
+## OS / DE / WM
+
+![Fedora](https://img.shields.io/badge/Fedora-KDEPlasma-white?style=for-the-badge&logo=fedora) ![Plasma](https://img.shields.io/badge/Plasma-white?style=for-the-badge&logo=kdeplasma) ![Hyprland](https://img.shields.io/badge/Hyprland-white?style=for-the-badge&logo=hyprland) <br>
+![ardour](https://img.shields.io/badge/Windows11-VALORANT-red?style=for-the-badge&logo=windows) 
+
+---
+
+## Editor / DevTools
+
+ ![Kate](https://img.shields.io/badge/kate-gray?style=for-the-badge&logo=kde) ![ZSH](https://img.shields.io/badge/ZSH-gray?style=for-the-badge&logo=zsh) ![Git](https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=git)
+
+ ---
+## Languages
+![Qt](https://img.shields.io/badge/Qt-reviewing-white?style=for-the-badge&logo=qt)  ![Zig](https://img.shields.io/badge/Zig-Learnling-gray?style=for-the-badge&logo=zig) ![Vite](https://img.shields.io/badge/Vite-Learnling-gray?style=for-the-badge&logo=vite)   
