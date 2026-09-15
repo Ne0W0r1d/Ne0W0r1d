@@ -23,8 +23,9 @@ And I am creator and cheif-maintainer by [Can We Tux](https://tux.red>
 
 ## OS / DE / WM
 
-![Fedora](https://img.shields.io/badge/Fedora-KDEPlasma-white?style=for-the-badge&logo=fedora) ![Plasma](https://img.shields.io/badge/Plasma-white?style=for-the-badge&logo=kdeplasma) ![Hyprland](https://img.shields.io/badge/Hyprland-white?style=for-the-badge&logo=hyprland) <br>
-![ardour](https://img.shields.io/badge/Windows11-VALORANT-red?style=for-the-badge&logo=windows) 
+![Fedora](https://img.shields.io/badge/Fedora%20Linux-KDE%20Plasma%20Edition-white?style=for-the-badge&logo=fedora)  ![WinVAL](https://img.shields.io/badge/Windows11-VALORANT-red?style=for-the-badge&logo=windows) 
+
+![Plasma](https://img.shields.io/badge/Plasma-white?style=for-the-badge&logo=kdeplasma) ![Hyprland](https://img.shields.io/badge/Hyprland-white?style=for-the-badge&logo=hyprland)
 
 ---
 
@@ -34,4 +35,4 @@ And I am creator and cheif-maintainer by [Can We Tux](https://tux.red>
 
  ---
 ## Languages
-![Qt](https://img.shields.io/badge/Qt-reviewing-white?style=for-the-badge&logo=qt) ![cplusplus](https://img.shields.io/badge/C%2B%2B-reviewing-white?style=for-the-badge&logo=cplusplus) ![Vite](https://img.shields.io/badge/Vite-Learnling-gray?style=for-the-badge&logo=vite) ![Python](https://img.shields.io/badge/Python-Learnling-gray?style=for-the-badge&logo=vite)   
+![Qt](https://img.shields.io/badge/Qt-reviewing-white?style=for-the-badge&logo=qt) ![cplusplus](https://img.shields.io/badge/C%2B%2B-reviewing-white?style=for-the-badge&logo=cplusplus) ![Vite](https://img.shields.io/badge/Vite-Learnling-gray?style=for-the-badge&logo=vite) ![Python](https://img.shields.io/badge/Python-Learnling-gray?style=for-the-badge&logo=python)   
