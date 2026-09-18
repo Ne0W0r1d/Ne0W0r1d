@@ -1,7 +1,7 @@
 # `sudo dnf in hello-everyone -y`
 
 I am Ne0W0r1d,a digital media tech graduate, A noob musician, Noob full-stack engineers, an Ex-AI drama creator.<br>
-And I am creator and cheif-maintainer by [Can We Tux](https://tux.red>
+And I am creator and cheif-maintainer by [Can We Tux](https://tux.red)
 
 --- 
 
@@ -9,7 +9,7 @@ And I am creator and cheif-maintainer by [Can We Tux](https://tux.red>
 
 👀 I am learning Qt/QML & C++, and Vite in these time.<br>
 🔥 I am trying Vibe Coding with Hermes<br>
-😋 I like listening music, play some anime game, and play VALORANT, write some blog on [My self blog](https://0w0.red)<br>
+😋 I like listening music, play some anime game, and play VALORANT, write some blog on [My self blog](https://0w0.red) <br>
 🤔 I am an ENFP Virgo guy, since 2003.
 
 ---
