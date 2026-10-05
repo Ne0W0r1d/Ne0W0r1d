@@ -36,4 +36,4 @@ And I am creator and cheif-maintainer by [Can We Tux](https://tux.red)
 
  ---
 ## Languages
-![Qt](https://img.shields.io/badge/Qt-reviewing-white?style=for-the-badge&logo=qt) ![cplusplus](https://img.shields.io/badge/C%2B%2B-reviewing-white?style=for-the-badge&logo=cplusplus) ![Vite](https://img.shields.io/badge/Vite-Learnling-gray?style=for-the-badge&logo=vite) ![Python](https://img.shields.io/badge/Python-Learnling-gray?style=for-the-badge&logo=python)   
+![Qt](https://img.shields.io/badge/Qt-reviewing-white?style=for-the-badge&logo=qt) ![cplusplus](https://img.shields.io/badge/C%2B%2B-reviewing-white?style=for-the-badge&logo=cplusplus) ![Vite](https://img.shields.io/badge/Vite-Learnling-gray?style=for-the-badge&logo=vite) ![Python](https://img.shields.io/badge/Golang-Learnling-gray?style=for-the-badge&logo=go)   
