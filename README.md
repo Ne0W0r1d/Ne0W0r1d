@@ -7,7 +7,7 @@ And I am creator and cheif-maintainer by [Can We Tux](https://tux.red)
 
 ## About my something
 
-👀 I am learning Qt/QML & C++, and Vite, Golang, TypeScript in these time.<br>
+👀 I am learning Qt/QML & C++ C23, and Vite, Golang, TypeScript in these time.<br>
 🔥 I am trying Vibe Coding<br>
 🎵 I am a ex-Music Producer<br>
 😋 I like listening music, play some anime game, and play VALORANT, write some blog on [My self blog](https://0w0.red) <br>
@@ -37,4 +37,4 @@ And I am creator and cheif-maintainer by [Can We Tux](https://tux.red)
 
  ---
 ## Languages
-![Qt](https://img.shields.io/badge/Qt-reviewing-white?style=for-the-badge&logo=qt) ![cplusplus](https://img.shields.io/badge/C%2B%2B-reviewing-white?style=for-the-badge&logo=cplusplus) ![Typescript](https://img.shields.io/badge/Typecript-Learnling-gray?style=for-the-badge&logo=typescript) ![Golang](https://img.shields.io/badge/Golang-Learnling-gray?style=for-the-badge&logo=go)   
+![Qt](https://img.shields.io/badge/Qt-reviewing-white?style=for-the-badge&logo=qt) ![cplusplus](https://img.shields.io/badge/C%2B%2B-Learnling-white?style=for-the-badge&logo=cplusplus) ![Typescript](https://img.shields.io/badge/Typecript-Learnling-gray?style=for-the-badge&logo=typescript) ![Golang](https://img.shields.io/badge/Golang-Learnling-gray?style=for-the-badge&logo=go)   
